@@ -4,7 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/louis.phmmm/)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 I am a Backend Developer currently working as a contractor developer at SmartOSC worked at Sacombank, participating in the development of PaymentHub – a middleware system for banking payments, responsible for integrating and orchestrating transactions between external channels and the core banking system. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Java, Golang, PostgreSQL, React, AWS, CI/CD, etc. 
@@ -28,7 +27,6 @@ Feel free to connect with me @louisphm091 for all things tech or just to say hel
 
 - 🛠 &nbsp; I’m currently working with Java, Golang, Javascript, etc.
 - 🚀 &nbsp; I’m currently exploring ML, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 📫 &nbsp; Reach me out: louis.phammm@gmail.com.
 
 ### My Absolute Favorites:
