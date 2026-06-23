@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/louis.phmmm/)
 
 ### Glad to see you here! 
-I am a Backend Developer currently working as a contractor developer at SmartOSC worked at Sacombank, participating in the development of PaymentHub – a middleware system for banking payments, responsible for integrating and orchestrating transactions between external channels and the core banking system.
+I am a Backend Developer currently working on myself – a restart for my upcoming journey.
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Java, Golang, PostgreSQL, React, AWS, CI/CD, etc. 
 
